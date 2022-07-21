@@ -17,3 +17,10 @@ https://www.fao.org/faostat/en/?#data/
 
 - Who is our customer, Fertizler Suppilers (CSBP, Summit) Primary producers
 
+Countries
+
+- Australia
+- China
+- Lithuania
+- Netherlands
+- Vietnam
