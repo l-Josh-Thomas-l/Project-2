@@ -1,0 +1,62 @@
+body {
+    background-color: #fafafa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sel-box {
+    background-color: #ffffff;
+    height: 100%;
+    width: 60%;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+    box-shadow: 30px;
+    border: 0.2px solid black;
+    display: flex;
+}
+
+li {
+    list-style-type: none;
+}
+
+.sel-image {
+    margin-left: 30%;
+    margin-right: 15%;
+    width: 62%;
+    height: 70%;
+    display: flex;
+    border: .2px solid black;
+    text-align: right;
+    align-items: right;
+    justify-content: right;
+}
+
+img {
+    border: 0.2px solid black;
+    box-shadow: 5px;
+}
+
+.heading-sel-box {
+    margin-left: 100%;
+}
+
+.sel-country {
+    margin-right: 5%;
+    height: 100%;
+    display: flex;
+    border: .2px solid black;
+    text-align: left;
+    align-items: left;
+    justify-content: left;
+}
+
+#add-elements {
+    /*add a scroll effect*/
+    overflow: scroll;
+    height: 500px;
+}
+
+.main {
+    margin: 0 auto;
+    display: flex;
+}
