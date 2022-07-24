@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Fertilizer Consumption Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" href="../Project-2/static/css/style.css">
+</head>
+
+<body>
+  <A HREF="../Project-2/T10_Consumer.html">Top10 Consumer Countries</A>
+    
+  </body> 
+
+<a href="#" class="previous round">&#8249;</a>
+<a href="#" class="next round">&#8250;</a>
+</li>
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="index.html"> Top Fertilizer Consumption 
+            <img class="f" src="../Project-2/static/Images/3.jpg">
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div class="hero text-center">
+      <h1>Ferilizer Consumption World Wide</h1>
+      <p>1961-2018</p>
+    </div>
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-2">
+          <aside class="filters">
+            <div class="panel panel-default">
+              <div class="panel-heading">Filter</div>
+              <div class="panel-body">
+                <form>
+                  <div class="form-group">
+                    <ul class="list-group" id="filters">
+                      <li class="filter list-group-item">
+                        <label for="Country">Enter a Country</label>
+                        <input class="form-control" id="Entity" type="text" placeholder="Eg.Italy">
+                        <hr>
+                        <label for="Year">Enter a year</label>
+                        <input class="form-control" id="Year" type="text" placeholder="Eg.1999">
+                      </li>
+                    </ul>
+                  </div>
+                  <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+                </form>
+              </div>
+            </div>
+          </aside>
+        </div>
+        <div class="col-md-10">
+          <div id="table-area" class="">
+            <table id="F-table" class="table table-striped">
+              <thead>
+                <tr>
+                  <th class="table-head">Country</th>
+                  <th class="table-head">Code</th>
+                  <th class="table-head">Year</th>
+                  <th class="table-head">Fertilizer consumption (kilograms per hectare of arable land)</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <footer class="footer">
+        <span class="bottom">fertilizer Consumption</span>
+      </footer>
+    </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="../Project-2/static/js/data.js"></script>
+  <script src="../Project-2/static/js/app.js"></script>
+</body>
+
+</html>
