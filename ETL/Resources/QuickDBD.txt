@@ -1,0 +1,36 @@
+Country
+-
+Country VARCHAR PK
+Continent VARCHAR
+Abbreviation_2 VARCHAR
+Abbreviation_3 VARCHAR
+
+Production
+-
+Country VARCHAR FK >- Country.Country
+Yield_type VARCHAR
+Year INTEGER
+Value(kg/ha) NUMERIC
+Continent VARCHAR
+Abbreviation_2 VARCHAR
+Abbreviation_3 VARCHAR
+
+GDP
+-
+Country VARCHAR FK >- Country.Country
+Year INTEGER
+GDP_per_capita NUMERIC
+Continent VARCHAR
+Abbreviation_2 VARCHAR
+Abbreviation_3 VARCHAR
+
+Fertilizer
+-
+Country VARCHAR FK >- Country.Country
+Year INTEGER
+Nitrogen(kg/ha) NUMERIC
+Potash(kg/ha) NUMERIC
+Phosphate(kg/ha) NUMERIC
+Continent VARCHAR
+Abbreviation_2 VARCHAR
+Abbreviation_3 VARCHAR
