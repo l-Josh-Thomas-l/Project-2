@@ -9,7 +9,7 @@ Project 2 Team
 
 Overview:
 
-- Fertilizer demand Increase in Australia
+- Fertilizer demand Increase in Australia?
 
 - Rise of production and yield increase in demand
 
@@ -17,14 +17,9 @@ Overview:
 
 - Most in demand fertilizer in Australia and why is that? Soil constraints?
 
-- Who is our customer, Fertizler Suppilers (CSBP, Summit) Primary producers
-
-- Australia
-- China
-- Lithuania
-- Netherlands
-- Vietnam
-
+Our group focused on looking at the use of of the three big macronutrient fertilizers nitrogen (N), phosphorus (P), and potassium (K).
+We wanted to find out what the each country consumption of these fertilizers amounted to.
+We then decided to look at home much the top 10 countries per hectare have used over time
 
 
 Data Source
