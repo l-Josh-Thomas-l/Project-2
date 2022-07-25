@@ -29,11 +29,6 @@ https://ourworldindata.org/fertilizers
 https://www.fao.org/faostat/en/?#data/)
 
 
-
-Conclusion
-
-ngdzgz
-
 Images
 
 ![image](https://user-images.githubusercontent.com/99587551/180714131-30a2752a-a698-4a9f-b233-d1340461665c.png)
