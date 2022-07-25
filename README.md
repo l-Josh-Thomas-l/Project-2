@@ -17,7 +17,7 @@ Overview:
 
 - Most in demand fertilizer in Australia and why is that? Soil constraints?
 
-Our group focused on looking at the use of of the three big macronutrient fertilizers nitrogen (N), phosphorus (P), and potassium (K).
+Our group focused on looking at the use of of the three macronutrient fertilizers nitrogen (N), phosphorus (P), and potassium (K).
 We wanted to find out what the each country consumption of these fertilizers amounted to.
 We then decided to look at home much the top 10 countries per hectare have used over time
 
