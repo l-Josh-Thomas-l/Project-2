@@ -1,13 +1,13 @@
-# Project-2
 
-Data Sources
+Project2
+Team
 
-https://www.fao.org/faostat/en/?#data/EF
+    Marty
+    Karin
+    Michael
+    Josh
 
-https://ourworldindata.org/fertilizers
-
-https://www.fao.org/faostat/en/?#data/
-
+Overview:
 
 - Fertilizer demand Increase in Australia
 
@@ -19,8 +19,6 @@ https://www.fao.org/faostat/en/?#data/
 
 - Who is our customer, Fertizler Suppilers (CSBP, Summit) Primary producers
 
-Countries
-
 - Australia
 - China
 - Lithuania
@@ -28,4 +26,17 @@ Countries
 - Vietnam
 
 
-Data from 1990
+Data Source
+
+https://ourworldindata.org/fertilizers
+
+https://www.fao.org/faostat/en/?#data/)
+
+
+Conclusion
+
+ngdzgz
+
+
+
+
